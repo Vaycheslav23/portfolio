@@ -4,6 +4,6 @@
 
 | #    | Наименование проекта                |    Описание                                   |     Стек                                |
 | ---- | -----------------------------------------------------------| ---------------------------------------------- | ------------------------------------------------------ |
-| 1.   | [A-B test](https://github.com/Vaycheslav23/portfolio/blob/main/A-B%20test.ipynb)   |     |     |
+| 1.   | [A-B test](https://github.com/Vaycheslav23/portfolio/blob/main/A-B%20test.ipynb)   |  Оценка корректности проведения теста и аналилиз результатов   |   python, pandas, numpy, matplotlib, scipy
 
 
